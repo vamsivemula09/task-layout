@@ -1,0 +1,42 @@
+      
+       ul{
+        list-style-type: none;
+    }
+    li{
+        display: inline;
+    }
+    li a{
+        text-decoration: none;
+        padding: 2rem;
+        color: black;
+    }
+    .d-flex{
+        display: flex;
+    }
+    .center{
+        justify-content: space-between;
+    }
+    .text-hero-page{
+        width: 60vw;
+        height: auto;
+        text-align: center;
+        color: white;
+        margin: auto; 
+        padding-top: 20vh;
+    }
+    .back-image{
+        background-image: url(../../Desktop/layout/images3.jpg);
+        background-size: cover;
+        width: 100%;
+        height: 80vh;
+    }
+    .lorem-width{
+        width: 20vw;
+        padding: 2rem;
+    }
+    .text-color{
+        color: rgb(98, 98, 228);
+        text-align: center;
+    } 
+      
+      
